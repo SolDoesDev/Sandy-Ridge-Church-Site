@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://<put-your-domain-here>/index.html</loc>
+  </url>
+  <url>
+    <loc>https://<put-your-domain-here>/about.html</loc>
+  </url>
+  <url>
+    <loc>https://<put-your-domain-here>/beliefs.html</loc>
+  </url>
+  <url>
+    <loc>https://<put-your-domain-here>/leadership.html</loc>
+  </url>
+  <url>
+    <loc>https://<put-your-domain-here>/sermons.html</loc>
+  </url>
+  <url>
+    <loc>https://<put-your-domain-here>/events.html</loc>
+  </url>
+  <url>
+    <loc>https://<put-your-domain-here>/give.html</loc>
+  </url>
+  <url>
+    <loc>https://<put-your-domain-here>/groups.html</loc>
+  </url>
+  <url>
+    <loc>https://<put-your-domain-here>/youth.html</loc>
+  </url>
+  <url>
+    <loc>https://<put-your-domain-here>/plan-a-visit.html</loc>
+  </url>
+  <url>
+    <loc>https://<put-your-domain-here>/contact.html</loc>
+  </url>
+</urlset>
