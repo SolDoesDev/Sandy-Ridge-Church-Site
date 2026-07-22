@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.sandyridgechurch.org/sitemap.xml
+Sitemap: https://soldoesdev.github.io/Sandy-Ridge-Church-Site/sitemap.xml
